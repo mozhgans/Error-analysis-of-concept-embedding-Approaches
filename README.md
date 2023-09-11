@@ -1,6 +1,10 @@
 #Error-analysis-of-concept-embedding-Approaches
 
-This project aims to model and analyzing the errors of text embedding approaches--word embedding in particular-- for the task of disambiguation in NLP; including WSD and Wikification tasks. 
+This project aims to model and analyze the errors of text embedding approaches--word embedding in particular-- for the task of disambiguation in NLP; including WSD and Wikification tasks. 
+
+This work is presented in chapter 2 of Mozhgan's thesis.
+
+
 
 
 resources:
@@ -18,3 +22,8 @@ https://arxiv.org/pdf/1706.03762.pdf
 https://arxiv.org/pdf/1609.08144.pdf
 
 https://arxiv.org/pdf/1609.08144.pdf
+
+
+
+
+Contact me: mozhan.saeidi@gmail.com
